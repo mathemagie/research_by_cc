@@ -1,23 +1,63 @@
 # Research: Art Projects with Rotary Phones
 
-**Research Date:** April 19, 2026
-**Topic:** Contemporary and maker art projects that repurpose the rotary telephone
+**Research Date:** April 19, 2026 (expanded April 22, 2026)
+**Topic:** Historical, contemporary, and maker art projects that repurpose the rotary
+telephone
 
 ---
 
 ## Overview
 
 The rotary dial telephone — obsolete as a communication device since the 1980s — has
-become one of the most durable icons in contemporary art and maker culture. Its tactile
+become one of the most durable icons in 20th- and 21st-century art. Its tactile
 weight, mechanical dial, bakelite shell, and disconnected receiver make it a ready-made
 vessel for themes of memory, grief, absence, nostalgia, surveillance, and reclaimed
 attention. This document surveys the most significant rotary-phone art projects across
-four categories: memorial and conceptual installations, public art, interactive museum
-exhibits, and maker/DIY repurposing.
+five categories: Surrealist and historical foundations, memorial and conceptual
+installations, public art, interactive museum exhibits, and maker/DIY repurposing.
 
 ---
 
-## 1. Memorial and Conceptual Installations
+## 1. Surrealist and Historical Foundations
+
+Before the rotary phone was nostalgic, it was uncanny — a new, strange object
+capable of carrying disembodied voices. Early-20th-century artists seized on it
+almost immediately.
+
+### Lobster Telephone (Aphrodisiac Telephone) — Salvador Dalí & Edward James, 1938
+Perhaps the single most famous object in Surrealism involving a phone. Dalí fitted
+a plaster lobster over the receiver of a standard British rotary telephone, with the
+crustacean's sexual organs positioned over the mouthpiece — an "aphrodisiac" merger
+of food, sex, and communication. Eleven were made (seven white, four red) for the
+homes of Dalí's patron Edward James. The piece originated in a 1935 drawing captioned
+*"NEW YORK DREAM — MAN FINDS LOBSTER IN PLACE OF PHONE"* and was first exhibited
+with a live lobster at a 1936 Paris Surrealist show. It remains the template for
+every subsequent artwork that defamiliarizes the telephone by adding an incongruous
+object.
+
+### Art By Telephone — Museum of Contemporary Art Chicago, 1969
+A proto-conceptual landmark. MCA Chicago asked 37 artists (including Joseph Beuys,
+John Baldessari, Richard Artschwager, Sol LeWitt, and Ed Ruscha) to *phone in*
+their instructions for works the museum would then fabricate. The rotary phone was
+the medium of authorship — an early argument that a work of art could be transmitted,
+not shipped. The accompanying LP of recorded calls is still considered foundational
+to telematic and conceptual art. *(Also flagged in §4 below for its museum context.)*
+
+### Telephone Piece — Yoko Ono, 1964 / 1997 / 2001
+Ono's *Telephone Piece* began as a 1964 instruction in *Grapefruit*: *"Get a
+telephone that only echoes back your voice. Call every day and talk about many
+things."* In 1971 she ended Side Four of the album *Fly* with the work in audio
+form: a phone rings six times, she answers, "Hello, this is Yoko." In its 1997/2001
+museum installation it became a white Slimline phone on a pedestal (sometimes at
+the center of a Plexiglas maze titled *Amaze*) with the instruction: *"When the
+telephone rings, pick up the receiver and talk to Yoko Ono."* Once a day at a
+random moment during the exhibition, Ono calls the museum, and whoever answers
+speaks with her. The piece spans 60 years of her practice and is the canonical
+example of the phone as a direct artist-to-viewer channel.
+
+---
+
+## 2. Memorial and Conceptual Installations
 
 ### The Wind Phone (風の電話 / *Kaze no Denwa*) — Itaru Sasaki, 2010
 The single most influential rotary-phone artwork of the 21st century. Garden designer
@@ -49,9 +89,37 @@ Hellstern refits decommissioned booths with rotary-style directories that let vi
 the project treats the rotary interface as a slow, deliberate ritual that re-frames how
 we access language.
 
+### Telephones — Christian Marclay, 1995
+A 7:30-minute video montage stitched from over 100 classic films: actors dialing,
+phones ringing, people answering, "Hello?"s stacking into a farcical exchange,
+quiet listening, and finally a sequence of hang-ups ending on Barbara Stanwyck in
+a booth looking at a dead receiver. Knitted together, Marclay's snippets form a
+"single, epic call" — a macronarrative assembled entirely from rotary and early
+pushbutton phones. It is widely held in major collections (MoMA, Whitney, SFMOMA)
+and is a landmark in video art. The piece argues that the telephone is less a
+physical object than a *cinematic ritual* — and that by 1995 that ritual was
+already a historical one.
+
+### Phone Confessional — Maurizio Cattelan, 2020s
+Cattelan has repeatedly used the phone as a provocation. In a recent project he
+opened a three-week "confessional" hotline, inviting callers in the US via a
+toll-free number (and internationally via WhatsApp) to offer confessions that he
+would personally curate — a sardonic update to both the Catholic confessional and
+Ono's *Telephone Piece*.
+
+### "It's For You": Conceptual Art and the Telephone — group show, 2011
+A useful index of the field: the Housatonic Museum of Art in Bridgeport, CT
+mounted this group show from February to March 2011, gathering telephone-based
+works by Christian Marclay, Yoko Ono, Rachel Perry Welty, Hannah Wilke, Robert
+Peters, T. Foley, Lukas Geronimas, Jeremy LeClair, and Pietro Pellini. Peters'
+*Naming Others: Manufacturing Yourself* (1993), in which callers dialed an 800
+number to select stereotyping phrases describing themselves, is a standout. The
+exhibition remains a rare curatorial snapshot of the phone-as-conceptual-medium
+lineage.
+
 ---
 
-## 2. Public Art
+## 3. Public Art
 
 ### "Phone Banksy" (Phone Wall) — Dave Gatzmer, Minnesota
 Twin Cities artist Dave Gatzmer has mounted more than 200 telephones — including many
@@ -74,7 +142,7 @@ device.
 
 ---
 
-## 3. Interactive Museum Exhibits
+## 4. Interactive Museum Exhibits
 
 A standard vocabulary has emerged around the rotary phone as a museum interface:
 
@@ -89,16 +157,15 @@ A standard vocabulary has emerged around the rotary phone as a museum interface:
   ringing, with directional speakers spreading the "overheard call" into the gallery
   so passers-by catch fragments.
 
-### Art By Telephone — MCA Chicago, 1969
-A proto-conceptual landmark worth flagging: the Museum of Contemporary Art Chicago's
-1969 exhibition *Art By Telephone* asked 37 artists (including Joseph Beuys, John
-Baldessari, and Richard Artschwager) to *phone in* their instructions for works the
-museum would then fabricate. The rotary phone was the medium of authorship — an early
-argument that a work of art could be transmitted, not shipped.
+### Art By Telephone — MCA Chicago, 1969 *(see §1)*
+The same 1969 MCA Chicago exhibition belongs equally to the museum-exhibit lineage:
+37 artists phoning in instructions that the museum fabricated and displayed, with
+the recorded calls pressed onto an LP that visitors could hear on gallery
+turntables. It is the archetype of the "museum telephone as artwork" idea.
 
 ---
 
-## 4. Maker and DIY Repurposing
+## 5. Maker and DIY Repurposing
 
 A rich parallel tradition treats the rotary phone as a hackable enclosure. These
 projects sit between craft, art, and engineering.
@@ -136,7 +203,8 @@ projects sit between craft, art, and engineering.
 
 ## Recurring Themes
 
-Across all four categories, a few motifs keep surfacing:
+Across all five categories — Surrealist, memorial/conceptual, public, museum, and
+maker — a few motifs keep surfacing:
 
 1. **Grief and the one-way call.** The disconnected receiver is a near-perfect
    metaphor for speaking to someone who cannot answer — the Wind Phone is its purest
@@ -147,10 +215,17 @@ Across all four categories, a few motifs keep surfacing:
    is intimate in a way headphones are not; museums and installation artists exploit
    this for oral history, poetry, and confessional audio.
 4. **The phone as a haunted object.** Many pieces lean on the idea that every phone
-   already contains the ghost of every call made through it.
-5. **Analog shell, digital guts.** Maker culture consistently keeps the bakelite
+   already contains the ghost of every call made through it — Marclay's *Telephones*
+   makes this literal by assembling a single call from a century of cinema.
+5. **Defamiliarization by substitution.** From Dalí's lobster to contemporary hacks
+   that replace the internals with a Pi, the rotary phone is repeatedly made strange
+   by swapping one of its parts.
+6. **Analog shell, digital guts.** Maker culture consistently keeps the bakelite
    body intact while replacing the internals — a visual argument that form and
    interaction matter more than the underlying signal.
+7. **Direct artist-to-viewer channel.** From Ono's *Telephone Piece* to Cattelan's
+   confessional hotline, the phone is used as a way to collapse the gallery wall
+   and put artist and viewer on the same line.
 
 ---
 
@@ -174,6 +249,24 @@ A short list of under-explored directions:
 
 ## Sources
 
+### Surrealist and historical foundations
+- [Lobster Telephone — Wikipedia](https://en.wikipedia.org/wiki/Lobster_Telephone)
+- [Lobster Telephone — Tate](https://www.tate.org.uk/art/artworks/dali-lobster-telephone-t03257)
+- [Lobster Telephone — National Galleries of Scotland](https://www.nationalgalleries.org/art-and-artists/166050)
+- [Aphrodisiac Telephone — Minneapolis Institute of Art](https://collections.artsmia.org/art/5033/aphrodisiac-telephone-salvador-dali)
+- ['Lobster Telephone' and Surrealism — Art UK](https://artuk.org/learn/learning-resources/lobster-telephone-and-surrealism)
+- [Art By Telephone (1969) — MCA Chicago](https://mcachicago.org/exhibitions/1969/art-by-telephone)
+- [Telephone Piece (1997/2008) — Rhizome](https://rhizome.org/editorial/2010/feb/02/telephone-piece-19972008-yoko-ono/)
+- [Hello. This Is Yoko. — Madeline Bocaro](https://madelinex.com/2014/10/15/hello-this-is-yoko/)
+- [Yoko Ono Telephone Piece (1964) — Flickr / Yoko Ono Official](https://www.flickr.com/photos/yokoonoofficial/2892798904)
+
+### Memorial and conceptual
+- [Christian Marclay: Telephones (1995) — MoMA](https://www.moma.org/collection/works/153235)
+- [Christian Marclay: Telephones — Whitney Museum](https://whitney.org/collection/works/44491)
+- [Christian Marclay: Telephones — SFMOMA](https://www.sfmoma.org/artwork/2000.37/)
+- [What is the meaning of Christian Marclay's Telephones? — Public Delivery](https://publicdelivery.org/christian-marclay-telephones/)
+- ["It's For You": Conceptual Art and the Telephone — Imagine Peace](https://www.imaginepeace.com/archives/13805)
+- [Cattelan's phone confessional — Galerie Magazine](https://galeriemagazine.com/maurizio-cattelan-launches-three-week-phone-confessional/)
 - [Wind Phone — Wikipedia](https://en.wikipedia.org/wiki/Wind_phone)
 - [Wind Telephone in Otsuchi — Atlas Obscura](https://www.atlasobscura.com/places/wind-telephone)
 - [Wind Telephone — Forecast Public Art](https://forecastpublicart.org/wind-telephone/)
